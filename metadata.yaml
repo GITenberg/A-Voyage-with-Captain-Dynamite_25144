@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '31098'
     url: http://www.gutenberg.org/2009/agents/31098
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/25144#A-Voyage-with-Captain-Dynamite
 gutenberg_issued: '2008-04-23'
 gutenberg_type: Text
 identifiers:
